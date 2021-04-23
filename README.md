@@ -37,13 +37,13 @@ __7.__ After it has imported, select the appliance and click the `Start` button
 ![](./setup/7.png)
 
 
-__8.__ The virtual appliance will start in a new window, you don't have to do anything as it'll automatically setup everything for you
+__8.__ The virtual appliance will start in a new window, you don't have to do anything as it'll automatically setup everything
 ![](./setup/8.gif)
 
 __9.__ When it's finished, your window should look like this
 ![](./setup/9.png)
 
-__10.__ Now open your web browser and goto [http://127.0.0.1:8001/](http://127.0.0.1:8001/) or [http://localhost:8001/](http://localhost:8001/). The page should look like this.
+__10.__ Now open your web browser and goto [http://127.0.0.1:8001/](http://127.0.0.1:8001/) or [http://localhost:8001/](http://localhost:8001/). The page should look like this
 ![](./setup/10.png)
 
 __11.__ Now to start archiving!
@@ -53,7 +53,7 @@ Firstly change your `nickname` to `DueUtil`, like so
 Secondly, if you have a high internet connection (more than 4mpbs), you can increase how quickly you archive by changing your `Concurrent items`. The maximum you can change it to is `6`
 ![](./setup/12.png)
 
-Finally select the `Yahoo Answers` project
+Finally select the `Yahoo! Answers` project
 ![](./setup/13.png)
 
 
