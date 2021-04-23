@@ -26,7 +26,7 @@ __4.__ Select the `.ova` file from your file explorer
 
 
 __5.__ Click `Next`
-![](./setup/5.png)
+![](./setup/4.1.png)
 
 
 __6.__ Leave all the settings as default, and click `Import`
