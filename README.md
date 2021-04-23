@@ -58,3 +58,4 @@ Finally select the `Yahoo Answers` project
 
 
 And that's it!
+You can close out of the web browser, but you **MUST NOT close the virtual box window**
