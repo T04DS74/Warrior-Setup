@@ -1,5 +1,5 @@
 # Warrior-Setup
-Help preserve [Yahoo! Answers](https://www.virtualbox.org/wiki/Downloads) as a team.
+Help preserve [Yahoo! Answers](https://answers.yahoo.com/) as a team.
 This archiving project was setup by the [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page).
 
 This setup is mainly for Virtual Box on Windows, if you are on OSX, you can watch [this video](https://www.youtube.com/watch?v=_nzD-QpmePE).
