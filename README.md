@@ -1,13 +1,15 @@
 # Warrior-Setup
 Help preserve [Yahoo Answers](https://www.virtualbox.org/wiki/Downloads) as a team.
-
 This archiving project was setup by the [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page).
+
 This setup is mainly for Virtual Box on Windows, if you are on OSX, you can watch [this video](https://www.youtube.com/watch?v=_nzD-QpmePE).
-Instructions for using VMWare and Docker can be found [here](https://wiki.archiveteam.org/index.php/ArchiveTeam_Warrior#Basic_usage)
+
+Instructions for using VMWare and Docker can be found [here](https://wiki.archiveteam.org/index.php/ArchiveTeam_Warrior#Basic_usage).
+If you download and run a different version of Warrior, skip to step 10 of this setup guide
 ## Setup
 
 
-__1.__ Goto the [Virtual Box Downloads](https://www.virtualbox.org/wiki/Downloads) page and download the version for you platform
+__1.__ Goto the [Virtual Box Downloads](https://www.virtualbox.org/wiki/Downloads) page and download the version for your platform
 [![Virtual Box Download](./setup/1.png)](https://www.virtualbox.org/wiki/Downloads)
 
 
