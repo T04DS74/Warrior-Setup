@@ -47,7 +47,7 @@ __10.__ Now open your web browser and goto [http://127.0.0.1:8001/](http://127.0
 ![](./setup/10.png)
 
 __11.__ Now to start archiving!
-Firstly change your `nickname` to `DueUtil`, like so.
+Firstly change your `nickname` to `DueUtil`, like so
 ![](./setup/11.png)
 
 Secondly, if you have a high internet connection (more than 4mpbs), you can increase how quickly you archive by changing your `Concurrent items`. The maximum you can change it to is `6`
